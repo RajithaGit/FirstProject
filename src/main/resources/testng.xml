@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Walmart Test Suite">
+	<test name="Walmart Testing">
+		<packages>
+			<package name="com.qa.tests.*"/>
+		</packages>	
+	</test>
+</suite>
