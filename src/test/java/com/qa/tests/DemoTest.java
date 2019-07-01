@@ -41,8 +41,8 @@ public class DemoTest {
 	public void mod() {
 		System.out.println("Mod ");
 		int a=10;
-		int b=22;
-		Assert.assertEquals(2, b%a);		
+		int b=24;
+		Assert.assertEquals(4, b%a);		
 	}
 
 }
